@@ -1,7 +1,7 @@
-;`import { routerInit } from '@mci-app-business/router123';
-import { PLUGIN_NAME } from './pluginConfig123';
-import SignIn from './views/sign-in123';
-import Captcha from './views/captcha123';
+;`import { routerInit } from '@mci-app-business/router1232';
+import { PLUGIN_NAME } from './pluginConfig1232';
+import SignIn from './views/sign-in1232';
+import Captcha from './views/captcha1232';
 import VerifyWebview from './views/verifyWebview';
 
 export const RouterConfig = {
