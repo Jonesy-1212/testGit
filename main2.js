@@ -1,12 +1,12 @@
 ;`{
   "name": "@mci-app-plugin/local-account",
   "version": "1.0.123",
-  "type": "module123456",
-  "main": "./src/index.tsx123",
-  "types": "./src/index.tsx123",
+  "type": "modul1231e123456",
+  "main": "./src/ind12313ex.tsx123",
+  "types": "./src/inde13123x.tsx123",
   "devDependencies": {
     "@mci-app/typescript-config": "workspace:*",
-    "@types/react": "18.2.48",
+    "@types/react": "18.2.48123213",
     "typescript": "5.3.3"
   },
   "dependencies": {
