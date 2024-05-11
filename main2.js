@@ -1,6 +1,6 @@
 ;`{
   "name": "@mci-app-plugin/local-account",
-  "version": "1.0.0123",
+  "version": "1.0.123",
   "type": "module123456",
   "main": "./src/index.tsx123",
   "types": "./src/index.tsx123",
